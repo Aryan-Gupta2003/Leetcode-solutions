@@ -19,6 +19,7 @@ struct ListNode
     ListNode(int x, ListNode *next) : val(x), next(next) {}
 };
 
+// Sol for Leetcode
 class Solution
 {
 public:
@@ -48,6 +49,7 @@ public:
     }
 };
 
+// For VSCode
 void addNode(ListNode *&head, int val)
 {
     ListNode *newNode = new ListNode(val);

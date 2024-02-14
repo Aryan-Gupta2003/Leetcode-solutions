@@ -8,6 +8,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Sol for Leetcode
 class Solution
 {
 public:
@@ -27,6 +28,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;

@@ -1,6 +1,21 @@
+// Leetcode problem statement link
+// https://leetcode.com/problems/rearrange-array-elements-by-sign/
+
+// Given a 0-indexed integer array nums of even length
+// consisting of an equal number of positive and negative integers.
+
+// Rearrange the elements of nums such that the
+// modified array follows the given conditions:
+
+// 1. Every consecutive pair of integers have opposite signs.
+// 2. For all integers with the same sign, the order in which
+//    they were present in nums is preserved.
+// 3. The rearranged array begins with a positive integer.
+
 #include <bits/stdc++.h>
 using namespace std;
 
+// Sol for Leetcode
 class Solution
 {
 public:
@@ -25,6 +40,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
