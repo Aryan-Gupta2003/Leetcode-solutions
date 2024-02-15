@@ -9,3 +9,5 @@
 #### Add Two Numbers [Que](https://leetcode.com/problems/add-two-numbers/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/add_two_linked_list.cpp)
 
 #### Rearrange Array Elements by Sign [Que](https://leetcode.com/problems/rearrange-array-elements-by-sign/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/rearrange_elemnets.cpp)
+
+#### Longest Substring [Que](https://leetcode.com/problems/longest-substring-without-repeating-characters/) / [Sol]()
