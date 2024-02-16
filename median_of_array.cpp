@@ -1,6 +1,13 @@
+// Leetcode problem statement link
+// https://leetcode.com/problems/median-of-two-sorted-arrays/
+
+// Given two sorted arrays nums1 and nums2 of size m and n
+// respectively, return the median of the two sorted arrays.
+
 #include <bits/stdc++.h>
 using namespace std;
 
+// Sol for Leetcode
 class Solution
 {
 public:
@@ -27,12 +34,13 @@ public:
         }
         cout << endl;
         if ((n1 + n2) % 2 == 0)
-            return (float(nums3[mid] + nums3[mid - 1]) / 2);
+            return (float(nums3[mid] + nums3[mid + 1]) / 2);
         else
             return float(nums3[mid]);
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
