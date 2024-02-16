@@ -10,4 +10,4 @@
 
 #### Rearrange Array Elements by Sign [Que](https://leetcode.com/problems/rearrange-array-elements-by-sign/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/rearrange_elemnets.cpp)
 
-#### Longest Substring [Que](https://leetcode.com/problems/longest-substring-without-repeating-characters/) / [Sol]()
+#### Longest Substring [Que](https://leetcode.com/problems/longest-substring-without-repeating-characters/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/longest_substring.cpp)
