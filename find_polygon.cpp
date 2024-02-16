@@ -1,6 +1,19 @@
+// Leetcode problem statement link
+// https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/
+
+// Given an array of positive integers nums of length n.
+// Return the largest possible perimeter of a polygon
+// whose sides can be formed from nums, or -1 if it is
+// not possible to create a polygon.
+
+// A polygon is a closed plane figure that has at
+// least 3 sides. The longest side of a polygon
+// is smaller than the sum of its other sides.
+
 #include <bits/stdc++.h>
 using namespace std;
 
+// Sol for Leetcode
 class Solution
 {
 public:
@@ -30,6 +43,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
