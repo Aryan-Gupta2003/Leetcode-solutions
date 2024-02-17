@@ -18,4 +18,4 @@
 
 #### 8. Median of 2 Sorted Arrays [Que](https://leetcode.com/problems/median-of-two-sorted-arrays/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/median_of_array.cpp)
 
-#### 9. Building Hoping [Que](https://leetcode.com/problems/furthest-building-you-can-reach/) / [Sol]()
+#### 9. Building Hoping [Que](https://leetcode.com/problems/furthest-building-you-can-reach/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/building_hoping.cpp)
