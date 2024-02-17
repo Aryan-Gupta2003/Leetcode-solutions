@@ -17,3 +17,5 @@
 #### 7. Least No. of Unique Integer after K Removals [Que](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/least_unique_no_1.cpp)
 
 #### 8. Median of 2 Sorted Arrays [Que](https://leetcode.com/problems/median-of-two-sorted-arrays/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/median_of_array.cpp)
+
+#### 9. Building Hoping [Que](https://leetcode.com/problems/furthest-building-you-can-reach/) / [Sol]()
