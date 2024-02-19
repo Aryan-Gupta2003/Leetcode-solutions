@@ -23,3 +23,5 @@
 #### 10. Meeting Rooms [Que](https://leetcode.com/problems/meeting-rooms-iii/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/meeting_room.cpp)
 
 #### 11. Power of Two [Que](https://leetcode.com/problems/power-of-two/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/power_of_two.cpp)
+
+#### 12. Longest Palindromic Substring [Que](https://leetcode.com/problems/longest-palindromic-substring/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/longest_palindromic_substring.cpp)
