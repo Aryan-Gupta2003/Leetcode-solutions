@@ -20,4 +20,6 @@
 
 #### 9. Building Hoping [Que](https://leetcode.com/problems/furthest-building-you-can-reach/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/building_hoping.cpp)
 
-#### 10. Meeting Rooms {Que}(https://leetcode.com/problems/meeting-rooms-iii/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/meeting_room.cpp)
+#### 10. Meeting Rooms [Que](https://leetcode.com/problems/meeting-rooms-iii/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/meeting_room.cpp)
+
+#### 11. Power of Two [Que](https://leetcode.com/problems/power-of-two/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/power_of_two.cpp)
