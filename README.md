@@ -29,3 +29,5 @@
 #### 13. Missing No. [Que](https://leetcode.com/problems/missing-number/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/missing_no.cpp)
 
 #### 14. Zigzag Conversion [Que](https://leetcode.com/problems/zigzag-conversion/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/zigzag_conversion.cpp)
+
+#### 15. Bitwise And [Que](https://leetcode.com/problems/bitwise-and-of-numbers-range/) / [Sol]()
