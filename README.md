@@ -35,3 +35,5 @@
 #### 16. Find a Town Judge [Que](https://leetcode.com/problems/find-the-town-judge/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/town_judge.cpp)
 
 #### 17. Cheapest Flights Within K Stops [Que](https://leetcode.com/problems/cheapest-flights-within-k-stops/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/cheapest_flights.cpp)
+
+#### 18. Reverse Integers [Que](https://leetcode.com/problems/reverse-integer/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/reverse_no.cpp)
