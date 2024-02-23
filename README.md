@@ -33,3 +33,5 @@
 #### 15. Bitwise And [Que](https://leetcode.com/problems/bitwise-and-of-numbers-range/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/bitwise_and.cpp)
 
 #### 16. Find a Town Judge [Que](https://leetcode.com/problems/find-the-town-judge/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/town_judge.cpp)
+
+#### 17. Cheapest Flights Within K Stops [Que](https://leetcode.com/problems/cheapest-flights-within-k-stops/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/cheapest_flights.cpp)
