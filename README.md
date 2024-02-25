@@ -37,3 +37,5 @@
 #### 17. Cheapest Flights Within K Stops [Que](https://leetcode.com/problems/cheapest-flights-within-k-stops/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/cheapest_flights.cpp)
 
 #### 18. Reverse Integers [Que](https://leetcode.com/problems/reverse-integer/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/reverse_no.cpp)
+
+#### 19. Find All People With Secret [Que](https://leetcode.com/problems/find-all-people-with-secret/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/secret_people.cpp)
