@@ -39,3 +39,5 @@
 #### 18. Reverse Integers [Que](https://leetcode.com/problems/reverse-integer/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/reverse_no.cpp)
 
 #### 19. Find All People With Secret [Que](https://leetcode.com/problems/find-all-people-with-secret/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/secret_people.cpp)
+
+#### 20. String to Integer [Que](https://leetcode.com/problems/string-to-integer-atoi/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/str_to_int.cpp)
