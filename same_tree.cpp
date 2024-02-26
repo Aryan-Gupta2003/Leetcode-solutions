@@ -1,3 +1,14 @@
+// Leetcode problem statement link
+// https://leetcode.com/problems/same-tree/
+
+// Given the roots of two binary trees p and
+// q, write a function to check if they are
+// the same or not.
+
+// Two binary trees are considered the same
+// if they are structurally identical, and
+// the nodes have the same value.
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -11,6 +22,7 @@ struct TreeNode
     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
 };
 
+// Sol For Leetcode
 class Solution
 {
 public:
@@ -24,6 +36,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
