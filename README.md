@@ -41,3 +41,5 @@
 #### 19. Find All People With Secret [Que](https://leetcode.com/problems/find-all-people-with-secret/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/secret_people.cpp)
 
 #### 20. String to Integer [Que](https://leetcode.com/problems/string-to-integer-atoi/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/str_to_int.cpp)
+
+#### 21. Same Tree [Que](https://leetcode.com/problems/same-tree/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/same_tree.cpp)
