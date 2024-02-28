@@ -43,3 +43,5 @@
 #### 20. String to Integer [Que](https://leetcode.com/problems/string-to-integer-atoi/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/str_to_int.cpp)
 
 #### 21. Same Tree [Que](https://leetcode.com/problems/same-tree/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/same_tree.cpp)
+
+#### 22. Diameter of Binary Tree [Que](https://leetcode.com/problems/diameter-of-binary-tree/description/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/diameter_of_tree.cpp)
