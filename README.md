@@ -45,3 +45,5 @@
 #### 21. Same Tree [Que](https://leetcode.com/problems/same-tree/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/same_tree.cpp)
 
 #### 22. Diameter of Binary Tree [Que](https://leetcode.com/problems/diameter-of-binary-tree/description/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/diameter_of_tree.cpp)
+
+#### 23. Find Bottom Left Tree Value [Que](https://leetcode.com/problems/find-bottom-left-tree-value/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/bottom_left.cpp)
