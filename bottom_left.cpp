@@ -1,6 +1,13 @@
+// Leetcode problem statement link
+// https://leetcode.com/problems/find-bottom-left-tree-value/
+
+// Given the root of a binary tree, return the
+// leftmost value in the last row of the tree.
+
 #include <bits/stdc++.h>
 using namespace std;
 
+// Sol for Leetcode
 struct TreeNode
 {
     int val;
@@ -36,6 +43,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
