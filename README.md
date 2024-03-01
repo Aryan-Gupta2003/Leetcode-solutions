@@ -48,4 +48,6 @@
 
 #### 23. Find Bottom Left Tree Value [Que](https://leetcode.com/problems/find-bottom-left-tree-value/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/bottom_left.cpp)
 
-#### 24. Maximum Odd Binary Number [Que](https://leetcode.com/problems/maximum-odd-binary-number/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/max_odd_no.cpp)
+#### 24. Even Odd Tree [Que](https://leetcode.com/problems/even-odd-tree/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/evenodd_tree.cpp)
+
+#### 25. Maximum Odd Binary Number [Que](https://leetcode.com/problems/maximum-odd-binary-number/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/max_odd_no.cpp)
