@@ -1,3 +1,21 @@
+// Leetcode problem statement link
+// https://leetcode.com/problems/even-odd-tree/
+
+// A binary tree is named Even-Odd if it
+// meets the following conditions:
+
+// 1. The root of the binary tree is at level
+// index 0, its children are at level index 1,
+// their children are at level index 2, etc.
+// 2. For every even-indexed level, all nodes
+// at the level have odd integer values in
+// strictly increasing order (from left to right).
+// 3. For every odd-indexed level, all nodes at
+// the level have even integer values in strictly
+// decreasing order (from left to right).
+
+// Given the root of a binary tree, return true if the binary tree is Even-Odd, otherwise return false.
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -11,6 +29,7 @@ struct TreeNode
     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
 };
 
+// Sol For Leetcode
 class Solution
 {
 private:
@@ -47,6 +66,7 @@ public:
     }
 };
 
+// For VSCode
 TreeNode *initializeTree()
 {
     auto newNode = [](int val)
