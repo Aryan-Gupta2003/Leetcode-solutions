@@ -51,3 +51,5 @@
 #### 24. Even Odd Tree [Que](https://leetcode.com/problems/even-odd-tree/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/evenodd_tree.cpp)
 
 #### 25. Maximum Odd Binary Number [Que](https://leetcode.com/problems/maximum-odd-binary-number/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/max_odd_no.cpp)
+
+#### 26. Squares of a Sorted Array [Que](https://leetcode.com/problems/squares-of-a-sorted-array/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/square_sorted_array.cpp)
