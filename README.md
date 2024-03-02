@@ -53,3 +53,5 @@
 #### 25. Maximum Odd Binary Number [Que](https://leetcode.com/problems/maximum-odd-binary-number/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/max_odd_no.cpp)
 
 #### 26. Squares of a Sorted Array [Que](https://leetcode.com/problems/squares-of-a-sorted-array/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/square_sorted_array.cpp)
+
+#### 27. Majority Element [Que](https://leetcode.com/problems/majority-element/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/majority_elements.cpp)
