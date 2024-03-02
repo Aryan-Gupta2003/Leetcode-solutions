@@ -1,6 +1,14 @@
+// Leetcode problem statement link
+// https://leetcode.com/problems/squares-of-a-sorted-array/
+
+// Given an integer array nums sorted in non-decreasing
+// order, return an array of the squares of each number
+// sorted in non-decreasing order.
+
 #include <bits/stdc++.h>
 using namespace std;
 
+// Sol For Leetcode
 class Solution
 {
 public:
@@ -16,6 +24,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
