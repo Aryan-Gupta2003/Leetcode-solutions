@@ -56,4 +56,6 @@
 
 #### 27. Majority Element [Que](https://leetcode.com/problems/majority-element/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/majority_elements.cpp)
 
-#### Remove Digit From Number to Maximize Result [Que](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/remove_digit.cpp)
+#### 28. Remove Digit From Number to Maximize Result [Que](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/remove_digit.cpp)
+
+#### 29. Remove Nth Node From End of List [Que](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/remove_n_node.cpp)
