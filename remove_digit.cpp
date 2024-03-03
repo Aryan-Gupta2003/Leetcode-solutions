@@ -1,6 +1,19 @@
+// Leetcode problem statement link
+// https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
+
+// Given a string number representing a positive
+// integer and a character digit.
+
+// Return the resulting string after removing exactly
+// one occurrence of digit from number such that the
+// value of the resulting string in decimal form is
+// maximized. The test cases are generated such that
+// digit occurs at least once in number.
+
 #include <bits/stdc++.h>
 using namespace std;
 
+// Sol For Leetcode
 class Solution
 {
 public:
@@ -20,6 +33,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
