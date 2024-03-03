@@ -55,3 +55,5 @@
 #### 26. Squares of a Sorted Array [Que](https://leetcode.com/problems/squares-of-a-sorted-array/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/square_sorted_array.cpp)
 
 #### 27. Majority Element [Que](https://leetcode.com/problems/majority-element/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/majority_elements.cpp)
+
+#### Remove Digit From Number to Maximize Result [Que](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/remove_digit.cpp)
