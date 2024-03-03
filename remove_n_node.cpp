@@ -1,3 +1,9 @@
+// Leetcode problem statement link
+// https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+
+// Given the head of a linked list, remove the nth node
+// from the end of the list and return its head.
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -10,6 +16,7 @@ struct ListNode
     ListNode(int x, ListNode *next) : val(x), next(next) {}
 };
 
+// Sol For Leetcode
 class Solution
 {
 public:
@@ -39,6 +46,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
