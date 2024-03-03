@@ -59,3 +59,5 @@
 #### 28. Remove Digit From Number to Maximize Result [Que](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/remove_digit.cpp)
 
 #### 29. Remove Nth Node From End of List [Que](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/remove_n_node.cpp)
+
+#### 30. Distribute Elements Into Two Arrays [Que](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/distribute_array.cpp)
