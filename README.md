@@ -61,3 +61,5 @@
 #### 29. Remove Nth Node From End of List [Que](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/remove_n_node.cpp)
 
 #### 30. Distribute Elements Into Two Arrays [Que](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/distribute_array.cpp)
+
+#### 31. Bag of Tokens [Que](https://leetcode.com/problems/bag-of-tokens/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/tokens_bag.cpp)
