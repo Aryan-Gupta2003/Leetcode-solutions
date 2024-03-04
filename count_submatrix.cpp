@@ -1,6 +1,17 @@
+// Leetcode problem statement link
+// https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/
+
+// You are given a 0-indexed integer matrix
+// grid and an integer k.
+
+// Return the number of submatrices that
+// contain the top-left element of the grid,
+// and have a sum less than or equal to k.
+
 #include <bits/stdc++.h>
 using namespace std;
 
+// Sol For Leetcode
 class Solution
 {
 public:
@@ -25,6 +36,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
