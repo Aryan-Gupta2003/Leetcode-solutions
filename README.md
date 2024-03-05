@@ -65,3 +65,5 @@
 #### 31. Bag of Tokens [Que](https://leetcode.com/problems/bag-of-tokens/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/tokens_bag.cpp)
 
 #### 32. Count Submatrices with Top-Left Element and Sum Less Than k [Que](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/count_submatrix.cpp)
+
+#### 33. Minimum Length of String After Deleting Similar Ends [Que](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/deleting_similar_ends.cpp)
