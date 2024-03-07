@@ -69,3 +69,5 @@
 #### 33. Minimum Length of String After Deleting Similar Ends [Que](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/deleting_similar_ends.cpp)
 
 #### 34. Linked List Cycle [Que](https://leetcode.com/problems/linked-list-cycle/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/linked_list_cycle.cpp)
+
+#### 35. Middle of the Linked List [Que](https://leetcode.com/problems/middle-of-the-linked-list/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/linked_list_middle.cpp)
