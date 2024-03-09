@@ -1,3 +1,12 @@
+// Leetcode problem statement link
+// https://leetcode.com/problems/middle-of-the-linked-list/
+
+// Given the head of a singly linked list, return the
+// middle node of the linked list.
+
+// If there are two middle nodes, return the
+// second middle node.
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -10,6 +19,7 @@ struct ListNode
     ListNode(int x, ListNode *next) : val(x), next(next) {}
 };
 
+// Sol For Leetcode
 class Solution
 {
 public:
@@ -36,6 +46,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
