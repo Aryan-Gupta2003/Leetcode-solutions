@@ -73,3 +73,5 @@
 #### 35. Middle of the Linked List [Que](https://leetcode.com/problems/middle-of-the-linked-list/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/linked_list_middle.cpp)
 
 #### 36. Count Elements With Maximum Frequency [Que](https://leetcode.com/problems/count-elements-with-maximum-frequency/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/count_max_frequency.cpp)
+
+#### 37. Minimum Common Value [Que](https://leetcode.com/problems/minimum-common-value/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/min_common_value.cpp)
