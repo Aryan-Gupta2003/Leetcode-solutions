@@ -71,3 +71,5 @@
 #### 34. Linked List Cycle [Que](https://leetcode.com/problems/linked-list-cycle/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/linked_list_cycle.cpp)
 
 #### 35. Middle of the Linked List [Que](https://leetcode.com/problems/middle-of-the-linked-list/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/linked_list_middle.cpp)
+
+#### 36. Count Elements With Maximum Frequency [Que](https://leetcode.com/problems/count-elements-with-maximum-frequency/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/count_max_frequency.cpp)
