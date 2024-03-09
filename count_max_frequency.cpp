@@ -1,6 +1,21 @@
+// Leetcode problem statement link
+// https://leetcode.com/problems/count-elements-with-maximum-frequency/
+
+// You are given an array nums
+// consisting of positive integers.
+
+// Return the total frequencies of elements
+// in nums such that those elements
+// all have the maximum frequency.
+
+// The frequency of an element is the
+// number of occurrences of that
+// element in the array.
+
 #include <bits/stdc++.h>
 using namespace std;
 
+// Sol For Leetcode
 class Solution
 {
 public:
@@ -20,6 +35,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
