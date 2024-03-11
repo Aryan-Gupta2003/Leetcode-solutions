@@ -1,19 +1,16 @@
 // Leetcode problem statement link
-// https://leetcode.com/problems/apple-redistribution-into-boxes/
+// https://leetcode.com/problems/custom-sort-string/
 
-// You are given an array apple of size n and an
-// array capacity of size m.
+// You are given two strings order and s. All the
+// characters of order are unique and were sorted
+// in some custom order previously.
 
-// There are n packs where the ith pack contains
-// apple[i] apples. There are m boxes as well, and
-// the ith box has a capacity of capacity[i] apples.
+// Permute the characters of s so that they match the
+// order that order was sorted. More specifically, if
+// a character x occurs before a character y in order,
+// then x should occur before y in the permuted string.
 
-// Return the minimum number of boxes you need to
-// select to redistribute these n packs of apples
-// into boxes.
-
-// Note that, apples from the same pack can be
-// distributed into different boxes.
+// Return any permutation of s that satisfies this property.
 
 #include <bits/stdc++.h>
 using namespace std;
