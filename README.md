@@ -77,3 +77,5 @@
 #### 37. Minimum Common Value [Que](https://leetcode.com/problems/minimum-common-value/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/min_common_value.cpp)
 
 #### 38. Intersection of Two Arrays [Que](https://leetcode.com/problems/intersection-of-two-arrays/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/intersection_of_arrays.cpp)
+
+#### 39. Custom Sort String [Que](https://leetcode.com/problems/custom-sort-string/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/custom_sort_str.cpp)
