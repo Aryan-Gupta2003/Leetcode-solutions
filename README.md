@@ -79,3 +79,7 @@
 #### 38. Intersection of Two Arrays [Que](https://leetcode.com/problems/intersection-of-two-arrays/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/intersection_of_arrays.cpp)
 
 #### 39. Custom Sort String [Que](https://leetcode.com/problems/custom-sort-string/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/custom_sort_str.cpp)
+
+#### 40. Apple Redistribution into Boxes [Que](https://leetcode.com/problems/apple-redistribution-into-boxes/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/apple_redistribution.cpp)
+
+#### 41. Remove Zero Sum Consecutive Nodes from Linked List [Que](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/remove_zero_sum.cpp)
