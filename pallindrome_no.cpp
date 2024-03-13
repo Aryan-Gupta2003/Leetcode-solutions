@@ -1,6 +1,13 @@
+// Leetcode problem statement link
+// https://leetcode.com/problems/palindrome-number/description/
+
+// Given an integer x, return true if x is a
+// palindrome, and false otherwise.
+
 #include <bits/stdc++.h>
 using namespace std;
 
+// Sol For Leetcode
 class Solution
 {
 public:
@@ -24,6 +31,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
