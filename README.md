@@ -83,3 +83,5 @@
 #### 40. Apple Redistribution into Boxes [Que](https://leetcode.com/problems/apple-redistribution-into-boxes/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/apple_redistribution.cpp)
 
 #### 41. Remove Zero Sum Consecutive Nodes from Linked List [Que](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/remove_zero_sum.cpp)
+
+#### 42. Find the Pivot Integer [Que](https://leetcode.com/problems/find-the-pivot-integer/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/find_pivot_int.cpp)
