@@ -1,6 +1,3 @@
-// Leetcode problem statement link
-//
-
 #include <bits/stdc++.h>
 using namespace std;
 
