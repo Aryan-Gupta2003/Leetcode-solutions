@@ -87,3 +87,5 @@
 #### 42. Find the Pivot Integer [Que](https://leetcode.com/problems/find-the-pivot-integer/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/find_pivot_int.cpp)
 
 #### 43. Palindrome Number [Que](https://leetcode.com/problems/palindrome-number/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/pallindrome_no.cpp)
+
+#### 44. Binary Subarrays With Sum [Que](https://leetcode.com/problems/binary-subarrays-with-sum/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/binary_subarray.cpp)
