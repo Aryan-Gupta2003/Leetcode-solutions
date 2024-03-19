@@ -90,4 +90,6 @@
 
 #### 44. Binary Subarrays With Sum [Que](https://leetcode.com/problems/binary-subarrays-with-sum/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/binary_subarray.cpp)
 
-#### 45. Product of Array Except Self [Que](https://leetcode.com/problems/product-of-array-except-self/) / [Sol]()
+#### 45. Product of Array Except Self [Que](https://leetcode.com/problems/product-of-array-except-self/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/product_array.cpp)
+
+#### 46. Contiguous Array [Que](https://leetcode.com/problems/contiguous-array/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/contiguous_array.cpp)
