@@ -1,3 +1,15 @@
+// Leetcode problem statement link
+// https://leetcode.com/problems/merge-in-between-linked-lists/
+
+// You are given two linked lists: list1 and list2 of sizes n
+// and m respectively.
+
+// Remove list1's nodes from the ath node to the bth node,
+// and put list2 in their place.
+
+// The blue edges and nodes in the following figure
+// indicate the result:
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -10,6 +22,7 @@ struct ListNode
     ListNode(int x, ListNode *next) : val(x), next(next) {}
 };
 
+// Sol For Leetcode
 class Solution
 {
 public:
@@ -40,6 +53,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
