@@ -97,3 +97,5 @@
 #### 47. Minimum Number of Arrows to Burst Balloons [Que](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/min_arrows.cpp)
 
 #### 48. Task Scheduler [Que](https://leetcode.com/problems/task-scheduler/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/task_scheduler.cpp)
+
+#### 49. Merge In Between Linked Lists [Que](https://leetcode.com/problems/merge-in-between-linked-lists/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/merge_link_list.cpp)
