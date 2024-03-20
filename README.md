@@ -93,3 +93,5 @@
 #### 45. Product of Array Except Self [Que](https://leetcode.com/problems/product-of-array-except-self/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/product_array.cpp)
 
 #### 46. Contiguous Array [Que](https://leetcode.com/problems/contiguous-array/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/contiguous_array.cpp)
+
+#### 47. Minimum Number of Arrows to Burst Balloons [Que](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/min_arrows.cpp)
