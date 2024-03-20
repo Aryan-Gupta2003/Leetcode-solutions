@@ -95,3 +95,5 @@
 #### 46. Contiguous Array [Que](https://leetcode.com/problems/contiguous-array/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/contiguous_array.cpp)
 
 #### 47. Minimum Number of Arrows to Burst Balloons [Que](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/min_arrows.cpp)
+
+#### 48. Task Scheduler [Que](https://leetcode.com/problems/task-scheduler/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/task_scheduler.cpp)
