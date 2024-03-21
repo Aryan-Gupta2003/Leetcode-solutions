@@ -99,3 +99,5 @@
 #### 48. Task Scheduler [Que](https://leetcode.com/problems/task-scheduler/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/task_scheduler.cpp)
 
 #### 49. Merge In Between Linked Lists [Que](https://leetcode.com/problems/merge-in-between-linked-lists/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/merge_link_list.cpp)
+
+#### 50. Reverse Linked List [Que](https://leetcode.com/problems/reverse-linked-list/) / [Sol](https://github.com/Aryan-Gupta2003/Leetcode-solutions/blob/main/reverse_link_list.cpp)
