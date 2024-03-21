@@ -1,3 +1,9 @@
+// Leetcode problem statement link
+// https://leetcode.com/problems/reverse-linked-list/
+
+// Given the head of a singly linked list, reverse
+// the list, and return the reversed list.
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -10,6 +16,7 @@ struct ListNode
     ListNode(int x, ListNode *next) : val(x), next(next) {}
 };
 
+// Sol For Leetcode
 class Solution
 {
 public:
@@ -30,6 +37,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
