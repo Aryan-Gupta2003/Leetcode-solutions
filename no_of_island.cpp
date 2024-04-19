@@ -52,7 +52,10 @@ public:
 int main()
 {
     Solution o1;
-    vector<vector<char>> grid{{'1', '1', '1', '1', '0'}, {'1', '1', '0', '1', '0'}, {'1', '1', '0', '0', '0'}, {'0', '0', '0', '0', '0'}};
+    vector<vector<char>> grid{{'1', '1', '1', '1', '0'},
+                              {'1', '1', '0', '1', '0'},
+                              {'1', '1', '0', '0', '0'},
+                              {'0', '0', '0', '0', '0'}};
     int result = o1.numIslands(grid);
     cout << "No. of Islands : " << result << endl;
     return 0;
