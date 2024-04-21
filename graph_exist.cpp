@@ -1,6 +1,7 @@
 // https://leetcode.com/problems/find-if-path-exists-in-graph/
 
 #include <bits/stdc++.h>
+#include <unordered_set>
 using namespace std;
 
 class Solution
