@@ -1,9 +1,15 @@
+// Leetcode problem statement link
 // https://leetcode.com/problems/word-break/
+
+// Given a string s and a dictionary of strings
+// wordDict, return true if s can be segmented
+// into a space-separated sequence of one or more dictionary words.
 
 #include <bits/stdc++.h>
 #include <unordered_set>
 using namespace std;
 
+// Sol for Leetcode
 class Solution
 {
 public:
@@ -46,6 +52,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
