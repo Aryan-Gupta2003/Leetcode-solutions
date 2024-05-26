@@ -1,4 +1,15 @@
+// Leetcode problem statement link
 // https://leetcode.com/problems/delete-leaves-with-a-given-value/
+
+// Given a binary tree root and an integer
+// target, delete all the leaf nodes with
+// value target.
+
+// Note that once you delete a leaf node
+// with value target, if its parent node
+// becomes a leaf node and has the value
+// target, it should also be deleted (you
+// need to continue doing that until you cannot).
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -13,6 +24,7 @@ struct TreeNode
     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
 };
 
+// Sol For Leetcode
 class Solution
 {
 public:
@@ -34,6 +46,7 @@ public:
     }
 };
 
+// For VSCode
 void printTree(TreeNode *root)
 {
     if (!root)
