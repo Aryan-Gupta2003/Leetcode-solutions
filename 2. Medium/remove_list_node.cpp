@@ -1,4 +1,12 @@
+// Leetcode problem statement link
 // https://leetcode.com/problems/remove-nodes-from-linked-list/
+
+// You are given the head of a linked list.
+
+// Remove every node which has a node with a
+// greater value anywhere to the right side of it.
+
+// Return the head of the modified linked list.
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -12,6 +20,7 @@ struct ListNode
     ListNode(int x, ListNode *next) : val(x), next(next) {}
 };
 
+// Sol For Leetcode
 class Solution
 {
 public:
@@ -46,6 +55,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
