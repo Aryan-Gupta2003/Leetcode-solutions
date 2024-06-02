@@ -1,8 +1,20 @@
+// Leetcode problem statement link
 // https://leetcode.com/problems/minimum-falling-path-sum-ii/
+
+// Given an n x n integer matrix grid,
+// return the minimum sum of a falling
+// path with non-zero shifts.
+
+// A falling path with non-zero shifts
+// is a choice of exactly one element
+// from each row of grid such that no
+// two elements chosen in adjacent rows
+// are in the same column.
 
 #include <bits/stdc++.h>
 using namespace std;
 
+// Sol For Leetcode
 class Solution
 {
 public:
@@ -44,6 +56,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
