@@ -1,8 +1,17 @@
+// Leetcode problem statement link
 // https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
+
+// Given an integer array nums that does not
+// contain any zeros, find the largest positive
+// integer k such that -k also exists in the array.
+
+// Return the positive integer k. If there is no
+// such integer, return -1.
 
 #include <bits/stdc++.h>
 using namespace std;
 
+// Sol For Leetcode
 class Solution
 {
 public:
@@ -27,6 +36,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
