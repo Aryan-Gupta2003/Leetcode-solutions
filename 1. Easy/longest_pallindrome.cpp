@@ -1,10 +1,19 @@
 // Leetcode problem statement link
 // https://leetcode.com/problems/longest-palindrome/
 
+// Given a string s which consists of lowercase
+// or uppercase letters, return the length of
+// the longest palindrome that can be built with
+// those letters.
+
+// Letters are case sensitive, for example, "Aa"
+// is not considered a palindrome.
+
 #include <bits/stdc++.h>
 #include <unordered_set>
 using namespace std;
 
+// Sol For Leetcode
 class Solution
 {
 public:
@@ -38,6 +47,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
