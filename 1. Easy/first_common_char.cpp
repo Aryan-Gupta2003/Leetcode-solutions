@@ -1,9 +1,15 @@
 // Leetcode problem statement link
 // https://leetcode.com/problems/find-common-characters/
 
+// Given a string array words, return an array
+// of all characters that show up in all strings
+// within the words (including duplicates). You
+// may return the answer in any order.
+
 #include <bits/stdc++.h>
 using namespace std;
 
+// Sol For Leetcode
 class Solution
 {
 private:
@@ -54,6 +60,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
