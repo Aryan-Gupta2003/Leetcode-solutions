@@ -1,8 +1,16 @@
+// Leetcode problem statement link
 // https://leetcode.com/problems/regular-expression-matching/
+
+// Given an input string s and a pattern p, implement regular
+// expression matching with support for '.' and '*' where:
+// '.' Matches any single character.​​​​
+// '*' Matches zero or more of the preceding element.
+// The matching should cover the entire input string (not partial).
 
 #include <bits/stdc++.h>
 using namespace std;
 
+// Sol For Leetcode
 class Solution
 {
 public:
@@ -38,6 +46,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
