@@ -1,4 +1,10 @@
+// Leetcode problem statement link
 // https://leetcode.com/problems/sum-of-left-leaves/
+
+// Given the root of a binary tree, return the sum of all left leaves.
+
+// A leaf is a node with no children. A left leaf is
+// a leaf that is the left child of another node.
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -13,6 +19,7 @@ struct TreeNode
     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
 };
 
+// Sol For Leetcode
 class Solution
 {
 public:
@@ -57,6 +64,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
