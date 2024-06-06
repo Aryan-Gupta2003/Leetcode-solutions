@@ -1,8 +1,14 @@
+// Leetcode problem statement link
 // https://leetcode.com/problems/remove-k-digits/
+
+// Given string num representing a non-negative int
+// num, and an integer k, return the smallest
+// possible integer after removing k digits from num.
 
 #include <bits/stdc++.h>
 using namespace std;
 
+// Sol For Leetcode
 class Solution
 {
 public:
@@ -48,6 +54,7 @@ public:
     }
 };
 
+// For VSCode
 int main()
 {
     Solution o1;
